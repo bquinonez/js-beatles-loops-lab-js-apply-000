@@ -21,7 +21,7 @@ function iLoveTheBeatles() {
   var loveBeatles = [];
   var i = 0;
   do {
-    i = 2;                     
+    i++                     
     document.write(i + ", ");   }
 while (i < 15)
 }
