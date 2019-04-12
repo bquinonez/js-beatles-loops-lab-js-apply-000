@@ -23,6 +23,6 @@ function iLoveTheBeatles(love) {
   var i = 8;
   do {
     i++                     
-    console.log( );   
+    lovebeatles.push('I love the Beatles!');   
 } while (i < 17);
 }
