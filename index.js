@@ -23,6 +23,7 @@ function iLoveTheBeatles(love) {
   var i = 8;
   do {
     i++                     
-    lovebeatles.push('I love the Beatles!');   
-} while (i < 17);
-}
+    loveBeatles.push('I love the Beatles!');   
+  }while (i < 17);
+return loveBeatles;
+} 
