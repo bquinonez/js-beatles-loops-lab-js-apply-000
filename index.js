@@ -22,6 +22,6 @@ function iLoveTheBeatles() {
   var i = 0;
   do {
     i++                     
-    console.log(i + ", ");   
+    console.log("i" + );   
 } while (i < 15);
 }
