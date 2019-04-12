@@ -18,7 +18,6 @@ function johnLennonFacts(facts) {
 }    
 
 
-```
 function iLoveTheBeatles() {
   var loveBeatles = [];
   var i = 8;
@@ -27,4 +26,3 @@ function iLoveTheBeatles() {
     console.log("i = " + i );   
 } while (i < 17);
 }
-```
