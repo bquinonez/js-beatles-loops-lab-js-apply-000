@@ -22,5 +22,5 @@ function iLoveTheBeatles() {
   var i = 0;
   do {i = 2;                     
     document.write(i + ", ");   }
-while (i < 100)
+while (i < 15)
 }
