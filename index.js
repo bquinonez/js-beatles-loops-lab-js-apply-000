@@ -19,7 +19,7 @@ function johnLennonFacts(facts) {
 
 
 function iLoveTheBeatles() {
-  var loveBeatles = [I love the Beatles!];
+  var loveBeatles = ['I love the Beatles!'];
   var i = 8;
   do {
     i++                     
