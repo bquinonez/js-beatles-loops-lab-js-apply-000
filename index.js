@@ -20,7 +20,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles() {
   var loveBeatles = ['I love the Beatles!'];
-  var i = 8;
+  var i = 7;
   do {
     i++                     
     console.log("i = " + i );   
