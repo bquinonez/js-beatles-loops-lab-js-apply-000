@@ -20,7 +20,8 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles() {
   var loveBeatles = [];
   var i = 0;
-  do {i = 2;                     
+  do {
+    i = 2;                     
     document.write(i + ", ");   }
 while (i < 15)
 }
