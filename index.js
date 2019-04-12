@@ -18,10 +18,9 @@ function johnLennonFacts(facts) {
 }    
   
 function iLoveTheBeatles() {
+  var loveBeatles = [];
   var i = 1;
-  do {                        
-     i = 2;                     
-    document.write(i + ", ");   
-}
+  do {i = 2;                     
+    document.write(i + ", ");   }
 while (i < 100)
 }
